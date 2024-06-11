@@ -4,7 +4,7 @@ Meshmerize is a line follower maze solving robot which we have made previously a
 turned out sucessful. I am glad to say that we even won micromuse competition held at LOCUS 2024. Even though we used simple algorithm but it was quite challenging to implement on actual hardware and electronics.
 
 ![micromouse](images/meshmerize.jpg)
-//Updated Chasis
+*Updated Chasis*
 
 Repository of [Meshmerize](https://github.com/awakesid/Meshmerize)
 
