@@ -5,7 +5,6 @@ turned out sucessful. I am glad to say that we even won micromuse competition he
 
 ![micromouse](images/meshmerize.jpg)
 
-
 *Updated Chasis*
 
 Repository of [Meshmerize](https://github.com/awakesid/Meshmerize)
